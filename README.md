@@ -69,4 +69,4 @@ Write a one-page brief for a human designer: final concept description · exact 
 
 ---
 
-نسخه‌ی ۱٫۰ · از مجموعه‌ی **Strategy Family**، ساخته‌شده برای دوره‌ی «هوش مصنوعی برای کسب‌وکار» · مجوز: [MIT](./LICENSE) · تاریخچه‌ی تغییرات: [CHANGELOG](./CHANGELOG.md)
+نسخه‌ی ۱٫۰ · از مجموعه‌ی **Strategy Family**· مجوز: [MIT](./LICENSE) · تاریخچه‌ی تغییرات: [CHANGELOG](./CHANGELOG.md)
